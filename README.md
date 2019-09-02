@@ -1,6 +1,6 @@
 # Simple Todo List in React with Firebase Authentication
 
-Put your credentials to `.env`.
+Firebase config details stored in `.env`.
 
 Run "npm i"
 
