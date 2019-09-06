@@ -7,6 +7,12 @@ Features -
    3. Click on an item to delete it
    4. Delete and add item animation
 
+
+   1. aaa
+   2. dddd
+   3. sasdas
+
+
 Notes -
    
    1. Put your firebase config details in the .env file
