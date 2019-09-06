@@ -1,11 +1,11 @@
 Basic Todo App made in React JS
 
 Features -
-   
+
    1. Firebase Authentication
-    2. User todo items stored in localStorage
-    3. Click on an item to delete it
-    4. Delete and add item animation
+   2. User todo items stored in localStorage
+   3. Click on an item to delete it
+   4. Delete and add item animation
 
 Notes -
    
