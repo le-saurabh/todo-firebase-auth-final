@@ -10,8 +10,8 @@ Features -
 Notes -
    
    1. Put your firebase config details in the .env file
-   2. To run
-      npm i && npm start
+   2. To run type
+      "npm i && npm start" in the terminal in the root directory.
 
 Known Bugs -
 
