@@ -10,15 +10,14 @@ Features -
 Notes -
    
    1. Put your firebase config details in the .env file
-    2. To run
-       
-       a. npm i
-        b. npm start
+   2. To run
+      a. npm i
+      b. npm start
 
 Known Bugs -
    
    1. User stored items are not displayed on log in, but once a new item is inserted, the full list is displayed.
-    2. Empty items can be inserted
+   2. Empty items can be inserted
 
 References -
    
