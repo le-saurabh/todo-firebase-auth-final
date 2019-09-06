@@ -11,9 +11,7 @@ Notes -
    
    1. Put your firebase config details in the .env file
    2. To run
-   
-      a. npm i
-      b. npm start
+      npm i && npm start
 
 Known Bugs -
 
